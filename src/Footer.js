@@ -10,7 +10,10 @@ export default function Footer() {
           Lungile Simelane
         </a>
         , and is {""}
-        <a href="https://github.com/ibattistax/tempo-app" target="_blank">
+        <a
+          href="https://github.com/LungiMarcia/Weather-App-React"
+          target="_blank"
+        >
           open-sourced on GitHub.
         </a>
       </p>
