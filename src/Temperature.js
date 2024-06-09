@@ -5,7 +5,7 @@ export default function Temperature() {
   let WeatherData = {
     date: "Sunday",
     time: "20:30",
-    description: "Sunny",
+    description: "Partly Cloudly",
     humidity: "65%",
     windspeed: "1.23 km/h",
     temperature: 15,
