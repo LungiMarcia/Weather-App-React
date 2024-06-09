@@ -15,7 +15,8 @@ export default function Footer() {
           target="_blank"
         >
           open-sourced on GitHub
-        </a>
+        </a>{" "}
+        {""}
         and hosted on {""}
         <a href="https://rococo-pasca-53f289.netlify.app" target="_blank">
           Netlify
