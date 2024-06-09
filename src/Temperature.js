@@ -16,7 +16,7 @@ export default function Temperature() {
       <div className="weather-app-data">
         <div>
           <h1 className="weather-app-city" id="city">
-            London
+            Pretoria
           </h1>
           <p className="weather-app-details">
             <span id="time">
